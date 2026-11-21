@@ -6,7 +6,7 @@ Me especializo en diseñar y construir aplicaciones web y móviles completas: de
 - 🔭 Actualmente liderando la arquitectura y desarrollo de **DocIA** (plataforma de salud digital y telemedicina).
 - 💻 **Stack principal:** TypeScript, Node.js, PostgreSQL, React, Next.js, Flutter, Git, Docker y Linux.
 - 🌐 **Portafolio:** [lauranunez.netlify.app](https://lauranunez.netlify.app)
-- 💼 **LinkedIn:** [Maria Laura Nuñez Jaillita](https://www.linkedin.com/in/maria-laura-nunez-jaillita-8a3b87311/)
+- 💼 **LinkedIn:** [Maria Laura Nuñez Jaillita](https://www.linkedin.com/in/maria-laura-nu%C3%B1ez-jaillita-8a3b87311/)
 
 ---
 
