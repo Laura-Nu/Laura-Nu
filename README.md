@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Maria Laura Nuñez 👋
+**Ingeniera de Sistemas Informáticos & Desarrolladora Full Stack** en Cochabamba, Bolivia.
 
-<!--
-**Laura-Nu/Laura-Nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en diseñar y construir aplicaciones web y móviles completas: desde APIs REST y bases de datos relacionales hasta interfaces responsivas y despliegues en producción.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente liderando la arquitectura y desarrollo de **DocIA** (plataforma de salud digital y telemedicina).
+- 💻 **Stack principal:** TypeScript, Node.js, PostgreSQL, React, Next.js, Flutter, Git, Docker y Linux.
+- 🌐 **Portafolio:** [lauranunez.netlify.app](https://lauranunez.netlify.app)
+- 💼 **LinkedIn:** [Maria Laura Nuñez Jaillita](https://www.linkedin.com/in/maria-laura-nunez-jaillita-8a3b87311/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Proyectos Destacados
+- **[DocIA](https://doc-ia.netlify.app)** — Plataforma digital de salud, telemedicina y asistencia clínica con IA (`TypeScript`, `Node.js`, `React`, `Flutter`, `Docker`).
+- **[Tessera](https://tessera.blokis.dev)** — Plataforma de emisión y verificación de certificados académicos (`TypeScript`, `Node.js`, `Fastify`, `Next.js`, `PostgreSQL`, `Redis`).
+- **[Tinku](https://tinku-web.vercel.app)** — Aplicación multiplataforma con arquitectura monorepo y CI/CD (`TypeScript`, `Node.js`, `PostgreSQL`, `Flutter`, `GitHub Actions`).
